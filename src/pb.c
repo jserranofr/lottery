@@ -36,3 +36,5 @@ main (int argc, char **argv)
   printf ("%d percent chance of winning\n", result);
   return 0;
 }
+
+// Comentario de prueba para modificar fichero y poder hacer merge.
